@@ -1,4 +1,4 @@
-# Jenkins WAR包部署脚本
+Jenkins WAR包部署脚本
 
 ## 脚本信息
 - 作者：wuxiang
