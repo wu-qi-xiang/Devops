@@ -7,5 +7,10 @@
 6. dig yourdomain.com NS     # 权威DNS服务器
 7. dig yourdomain.com MX     # 邮件记录
 
-加速：
 
+cdn加速使用网宿, aws route
+cdn测试使用拨测
+dig命令查看dns问题
+jumpserver使用
+跨云使用阿里云和腾讯云，华为云
+thanos监控-对接prometheus监控。
