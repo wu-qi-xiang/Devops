@@ -1,0 +1,26 @@
+
+
+# 创建staging环境
+terraform workspace new staging
+terraform apply  # 这会创建新的bucket，而不是修改dev的
+
+# 切换回dev
+terraform workspace select dev
+
+# 查看当前的workspace
+
+terraform workspace show
+
+# 查看状态
+terraform state list
+
+# 查看计划
+terraform plan
+
+# 创建资源
+terraform apply
+
+# 删除资源
+
+terraform destroy  
+
