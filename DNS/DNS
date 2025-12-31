@@ -1,0 +1,11 @@
+基础命令：
+1. nslookup www.baidu.com
+2. dig  www.baidu.com
+3. dig yourdomain.com +trace
+4. dig yourdomain.com A      # A记录
+5. dig yourdomain.com CNAME  # CNAME记录
+6. dig yourdomain.com NS     # 权威DNS服务器
+7. dig yourdomain.com MX     # 邮件记录
+
+加速：
+
